@@ -38,3 +38,44 @@ Alguém perguntou se temos plano de rollback. Mudando de assunto...
 O Go Live será tranquilo. Esta frase não possui qualquer compromisso com a realidade.
 Senhores passageiros, apertem os cintos. O ambiente de produção está logo à frente.
 No fim tudo dá certo. E, se não deu certo, abre um chamado.
+Não testamos em animais, somente em produção.
+O escopo do projeto é igual ao universo: está em constante e descontrolada expansão.
+Planejar o cronograma serve para sabermos exatamente quantos dias estamos atrasados.
+Se o prazo era para ontem, por que me pediram hoje com pressa para amanhã?
+"Para quando você precisa?" é a pergunta. "Para anteontem" é a piada de mau gosto.
+Adoro prazos. Gosto do som de vento que eles fazem quando passam voando.
+Nosso cronograma foi feito com base em pura fé e cafeína.
+O projeto está 90% concluído há seis meses. Os outros 10% vão levar mais dois anos.
+Entregar no prazo, no orçamento e com qualidade: escolha nenhuma das opções anteriores.
+Reduzir o prazo pela metade não faz as grávidas darem à luz em quatro meses e meio.
+O projeto não está atrasado, apenas recalibrou sua relação com o tempo e o espaço.
+O cliente não sabe o que quer, mas sabe exatamente o que não quer assim que você entrega.
+"Alteração simples" é a frase que precede o colapso estrutural de um projeto.
+Reunimos dez pessoas que não entendem do assunto para decidir como o trabalho deve serfeito.
+Nada une tanto uma equipe quanto o ódio compartilhado pelo comitê de aprovação.
+O cliente pediu um ajuste "estético" que exige refazer toda a arquitetura de dados.
+Alinhamento de expectativas: o momento em que todos concordam em fingir que vai dar certo.
+Mais uma reunião que poderia ter sido um e-mail. Ou um silêncio respeitoso.
+O cliente mudou de ideia de novo. O bom é que eu nem gostava da minha saúde mental.
+Mudança de escopo na véspera da entrega deveria ser considerada crime inafiançável.
+Um brinde aos clientes que pedem inovação, mas exigem que seja igual ao que já existe.
+Nossa metodologia ágil consiste em correr desesperadamente em círculos.
+Chamamos de "Gerenciamento de Crise" o que na verdade é só a nossa rotina diária.
+Em caso de erro, a culpa é sempre do antecessor ou do estagiário.
+O projeto está tão documentado que ninguém tem tempo de executá-lo.
+Mudamos o nome do problema para "oportunidade de melhoria", mas ele continua quebrandoo sistema.
+Se o plano A falhar, lembre-se de que o alfabeto tem mais 25 letras para dar errado.
+A eficiência do processo é inversamente proporcional ao número de gerentes envolvidos.
+Atas de reunião: o documento oficial onde registramos promessas que ninguém vai cumprir.
+Nosso plano de contingência é torcer para que o cliente não perceba a falha.
+Indicadores de performance (KPIs): a arte de torturar os números até que eles digam oque a diretoria quer ouvir.
+O sistema funciona perfeitamente, desde que ninguém tente usá-lo.
+Go Live na sexta-feira é um pedido formal de demissão disfarçado de deploy.
+Entregamos o projeto! Agora começou a fase mais longa: consertar a entrega.
+Está em produção. Que Deus tenha misericórdia dos usuários e do suporte.
+Não é um bug, é um recurso surpresa que testa a paciência do usuário.
+Sobreviver ao deploy deveria contar como experiência em combate militar.
+O código está segurado por duas gambiarras, três fios de barbante e muita oração.
+Entregamos o MVP: Mínimo Viável para Passar a Culpa para o próximo departamento.
+O sistema não caiu, ele apenas tirou uma soneca corporativa não planejada.
+Deu tudo certo no Go Live. Agora só falta descobrir quem vai assumir a culpa quando quebrar amanhã.
