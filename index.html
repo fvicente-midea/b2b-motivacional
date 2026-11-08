@@ -98,7 +98,7 @@
         trocarFrase();
 
         // Troca a frase a cada 30 segundos
-        setInterval(trocarFrase, 30000);
+        setInterval(trocarFrase, 15000);
 
       } catch (erro) {
 
@@ -149,7 +149,7 @@
         const novaFrase = escolherNovaFrase();
 
         elemento.textContent =
-          `A Frase do dia é: "${novaFrase}"`;
+          `"${novaFrase}"`;
 
         elemento.classList.remove("saindo");
 
