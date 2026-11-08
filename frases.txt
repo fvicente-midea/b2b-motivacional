@@ -1,0 +1,40 @@
+Go Live: porque testar em produção também é uma metodologia.
+Está funcionando. Por favor, ninguém encosta em nada.
+O Go Live está chegando. Finjam naturalidade.
+Não é bug. É uma funcionalidade que ainda não conhecemos.
+Faltam poucos dias para descobrirmos o que esquecemos de testar.
+Go Live: aquele momento mágico em que desenvolvimento vira suporte.
+Testamos tudo. Exceto aquilo que vai dar problema.
+Se funcionou na homologação, já temos um excelente álibi.
+A documentação está atualizada. Só não sabemos onde ela está.
+O prazo continua o mesmo. O escopo é que ainda não foi avisado.
+Reta final do projeto: 10% implementação e 90% "rapidinho, mais uma coisa".
+Confia. O ambiente de produção é praticamente igual ao de homologação.
+O importante não é não ter bugs. É descobrir antes do cliente.
+Se ninguém abrir chamado, tecnicamente deu tudo certo.
+A diferença entre coragem e irresponsabilidade é um Go Live bem-sucedido.
+Hoje não procuramos culpados. Deixamos isso para depois do Go Live.
+Não temos problemas. Temos oportunidades urgentes de correção.
+O plano B está pronto. O problema é que já estamos no plano F.
+A previsão é de Go Live com possibilidade de tempestades isoladas.
+Tudo sob controle. Só não sabemos sob controle de quem.
+O projeto está 99% pronto. Os outros 99% ficam para amanhã.
+Keep calm e não limpa o cache agora.
+O Go Live aproxima pessoas. Principalmente TI, negócio e suporte às 23h.
+Se você encontrou um bug agora, não encontrou.
+Última semana antes do Go Live: onde cada reunião gera outras três reuniões.
+Nada une mais uma equipe do que um erro 500 em produção.
+O sistema está estável enquanto ninguém estiver usando.
+Go Live às 18h. Terapia às 18h05.
+Hoje o café deixou de ser bebida e passou a ser ferramenta de gestão.
+Não existe deploy na sexta-feira. Existe falta de amor próprio.
+Depois de meses de projeto, chegou a hora de confiar naquele checkbox que ninguém sabe para que serve.
+Se der certo, foi planejamento. Se der errado, foi uma dependência externa.
+A melhor parte do Go Live é descobrir requisitos inéditos no dia anterior.
+Faltam poucos dias. Excelente momento para mudar uma regra de negócio.
+"Acho que está pronto" é praticamente uma aprovação formal.
+Produção não é lugar para testar. É lugar para descobrir.
+Alguém perguntou se temos plano de rollback. Mudando de assunto...
+O Go Live será tranquilo. Esta frase não possui qualquer compromisso com a realidade.
+Senhores passageiros, apertem os cintos. O ambiente de produção está logo à frente.
+No fim tudo dá certo. E, se não deu certo, abre um chamado.
